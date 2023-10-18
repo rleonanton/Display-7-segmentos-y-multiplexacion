@@ -1,7 +1,8 @@
-# Parcial_1_S.P.D
-Este proyecto utiliza un microcontrolador Arduino para controlar una variedad de componentes y realizar múltiples funciones. El código proporcionado es una solución completa para el proyecto, lo que permite a los componentes interactuar y realizar varias funcionalidades.
+## Parcial_1_S.P.D
 
-# Integrantes
+![](https://github.com/rleonanton/Parcial_1_p_S.P.D/blob/main/arduino-1128227_1920.jpg)
+
+## Integrantes
 
 Rafael Alfredo León Antón
 D.N.I : 95.880.951
@@ -9,15 +10,49 @@ D.N.I : 95.880.951
 Renzo Gomez Rettori
 D.N.I : 37.053.986
 
-# Parte 1: Contador de 0 a 99 con Display 7 Segmentos y Multiplexación
+## Parte 1: Contador de 0 a 99 con Display 7 Segmentos y Multiplexación
 
 ![](https://github.com/rleonanton/Parcial_1_p_S.P.D/blob/main/Captura%20de%20pantalla%202023-10-18%20121543.png)
 
 
-# Parte 2: Modificación con Interruptor Deslizante y Números Primos
+## Parte 2: Modificación con Interruptor Deslizante y Números Primos
 
 ![](https://github.com/rleonanton/Parcial_1_p_S.P.D/blob/main/Captura%20de%20pantalla%202023-10-18%20122351.png)
 
-# Parte 3: Modificación según el Último Número de Documento(Incluir Fotorresistencia)
+## Parte 3: Modificación según el Último Número de Documento(Incluir Fotorresistencia)
 
 ![](https://github.com/rleonanton/Parcial_1_p_S.P.D/blob/main/Captura%20de%20pantalla%202023-10-18%20122559.png)
+
+## Descripcion del proyecto
+
+Este proyecto utiliza un microcontrolador Arduino para controlar una variedad de componentes y realizar múltiples funciones. 
+
+Componentes Utilizados:
+
+Display de 7 segmentos: Utilizado para mostrar números y dígitos.
+
+Interruptor: Permite cambiar entre mostrar números primos y un contador.
+
+Sensor de Temperatura: Lee la temperatura ambiente.
+
+Motor: Controla un motor según la temperatura leída.
+
+Fotoresistencia: Mide la intensidad de la luz ambiental.
+
+# Funcionalidades del Proyecto:
+
+Puede mostrar números primos en el display de 7 segmentos y cuenta del 0 al 99.
+Cambia entre mostrar números primos y el contador mediante un interruptor.
+Lee la temperatura ambiente y enciende un motor si está en un rango de temperatura específico.
+Mide la intensidad de la luz con una fotoresistencia.
+
+# Links a las 3 partes del proyecto
+
+Parte 1 : https://www.tinkercad.com/things/aqfx4EWHaCS-parcial-1/editel?sharecode=WVr_tuPmz9yf4GdreuduHTlT-ejub4_I-db6TGHJ12Y
+
+Parte 2 : https://www.tinkercad.com/things/kgEagyRzkiL-parcial-1-par-2-listo/editel?sharecode=EtajSFub1OWK8ggkzwpdKnK_LxAI3KSJ7OmF5FZQ8VU
+
+Parte 3 : https://www.tinkercad.com/things/hlFMOoGWj58-copy-of-copy-of-copy-of-copy-of-parcial-1-par-2/editel?sharecode=UoFjXWnHeDzCDYqt-ELO1Y7GR7jEEOIyiVqc1-sPTbo
+
+:satisfied::satisfied::satisfied::satisfied::satisfied::satisfied::satisfied:
+
