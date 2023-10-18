@@ -8,3 +8,7 @@ D.N.I : 95.880.951
 
 Renzo Gomez Rettori
 D.N.I : 37.053.986
+
+# Parte 1: Contador de 0 a 99 con Display 7 Segmentos y Multiplexación
+
+
