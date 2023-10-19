@@ -27,6 +27,10 @@ D.N.I : 37.053.986
 
 ![](https://github.com/rleonanton/Parcial_1_p_S.P.D/blob/main/Captura%20de%20pantalla%202023-10-19%20002811.png)
 
+## Parte 4 : Modificación según el Último Número de Documento(Apagar el sistema, con el interruptor en numeros primos)
+
+![](https://github.com/rleonanton/Parcial_1_p_S.P.D/blob/main/Captura%20de%20pantalla%202023-10-19%20002811.png)
+
 ## Descripcion del proyecto
 
 Este proyecto utiliza un microcontrolador Arduino para controlar una variedad de componentes y realizar múltiples funciones. 
@@ -60,4 +64,4 @@ Parte 3 Rafael León: https://www.tinkercad.com/things/hlFMOoGWj58-copy-of-copy-
 
 Parte 3 Renzo Gomez: https://www.tinkercad.com/things/jAphLJN5osN-copy-of-parcial1-part3/editel?sharecode=1XCh2dV2vFmAhkKiGj58ycomkWeR12yE9HU_pwbTyBA
 
-
+Parte 4 : https://www.tinkercad.com/things/a8TJC50sX3z-copy-of-parcial1-part3-rafael/editel?sharecode=jN5N_PTbYh4hWE67R3gS_xaGQFFZ0vUogsUso2M6WvY
