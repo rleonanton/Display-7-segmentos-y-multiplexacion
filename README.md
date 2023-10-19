@@ -19,9 +19,13 @@ D.N.I : 37.053.986
 
 ![](https://github.com/rleonanton/Parcial_1_p_S.P.D/blob/main/Captura%20de%20pantalla%202023-10-18%20122351.png)
 
-## Parte 3: Modificación según el Último Número de Documento(Incluir Fotorresistencia)
+## Parte 3 Rafael León: Modificación según el Último Número de Documento(Incluir Fotorresistencia)
 
 ![](https://github.com/rleonanton/Parcial_1_p_S.P.D/blob/main/Captura%20de%20pantalla%202023-10-18%20122559.png)
+
+## Parte 3 Renzo Gomez: Modificación según el Último Número de Documento(Incluir Fotodiodo)
+
+![]https://www.tinkercad.com/things/jAphLJN5osN-copy-of-parcial1-part3/editel?sharecode=1XCh2dV2vFmAhkKiGj58ycomkWeR12yE9HU_pwbTyBA
 
 ## Descripcion del proyecto
 
