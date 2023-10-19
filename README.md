@@ -25,7 +25,7 @@ D.N.I : 37.053.986
 
 ## Parte 3 Renzo Gomez: Modificación según el Último Número de Documento(Incluir Fotodiodo)
 
-![]https://www.tinkercad.com/things/jAphLJN5osN-copy-of-parcial1-part3/editel?sharecode=1XCh2dV2vFmAhkKiGj58ycomkWeR12yE9HU_pwbTyBA
+![](https://github.com/rleonanton/Parcial_1_p_S.P.D/blob/main/Captura%20de%20pantalla%202023-10-19%20002811.png)
 
 ## Descripcion del proyecto
 
@@ -56,7 +56,8 @@ Parte 1 : https://www.tinkercad.com/things/aqfx4EWHaCS-parcial-1/editel?sharecod
 
 Parte 2 : https://www.tinkercad.com/things/kgEagyRzkiL-parcial-1-par-2-listo/editel?sharecode=EtajSFub1OWK8ggkzwpdKnK_LxAI3KSJ7OmF5FZQ8VU
 
-Parte 3 : https://www.tinkercad.com/things/hlFMOoGWj58-copy-of-copy-of-copy-of-copy-of-parcial-1-par-2/editel?sharecode=UoFjXWnHeDzCDYqt-ELO1Y7GR7jEEOIyiVqc1-sPTbo
+Parte 3 Rafael León: https://www.tinkercad.com/things/hlFMOoGWj58-copy-of-copy-of-copy-of-copy-of-parcial-1-par-2/editel?sharecode=UoFjXWnHeDzCDYqt-ELO1Y7GR7jEEOIyiVqc1-sPTbo
 
-:satisfied::satisfied::satisfied::satisfied::satisfied::satisfied::satisfied:
+Parte 3 Renzo Gomez: https://www.tinkercad.com/things/jAphLJN5osN-copy-of-parcial1-part3/editel?sharecode=1XCh2dV2vFmAhkKiGj58ycomkWeR12yE9HU_pwbTyBA
+
 
