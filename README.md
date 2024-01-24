@@ -1,14 +1,6 @@
 
 ![](https://github.com/rleonanton/Parcial_1_p_S.P.D/blob/main/arduino-1128227_1920.jpg)
 
-## Integrantes
-
-Rafael Alfredo León Antón
-D.N.I : 95.880.951
-
-Renzo Gomez Rettori
-D.N.I : 37.053.986
-
 ## Parte 1: Contador de 0 a 99 con Display 7 Segmentos y Multiplexación
 
 ![](https://github.com/rleonanton/Parcial_1_p_S.P.D/blob/main/Captura%20de%20pantalla%202023-10-18%20121543.png)
