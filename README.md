@@ -51,8 +51,8 @@ Parte 1 : https://www.tinkercad.com/things/aqfx4EWHaCS-parcial-1/editel?sharecod
 
 Parte 2 : https://www.tinkercad.com/things/kgEagyRzkiL-parcial-1-par-2-listo/editel?sharecode=EtajSFub1OWK8ggkzwpdKnK_LxAI3KSJ7OmF5FZQ8VU
 
-Parte 3 Rafael León: https://www.tinkercad.com/things/hlFMOoGWj58-copy-of-copy-of-copy-of-copy-of-parcial-1-par-2/editel?sharecode=UoFjXWnHeDzCDYqt-ELO1Y7GR7jEEOIyiVqc1-sPTbo
+Parte 3.1 : https://www.tinkercad.com/things/hlFMOoGWj58-copy-of-copy-of-copy-of-copy-of-parcial-1-par-2/editel?sharecode=UoFjXWnHeDzCDYqt-ELO1Y7GR7jEEOIyiVqc1-sPTbo
 
-Parte 3 Renzo Gomez: https://www.tinkercad.com/things/jAphLJN5osN-copy-of-parcial1-part3/editel?sharecode=1XCh2dV2vFmAhkKiGj58ycomkWeR12yE9HU_pwbTyBA
+Parte 3.2 :  https://www.tinkercad.com/things/jAphLJN5osN-copy-of-parcial1-part3/editel?sharecode=1XCh2dV2vFmAhkKiGj58ycomkWeR12yE9HU_pwbTyBA
 
 Parte 4 : https://www.tinkercad.com/things/a8TJC50sX3z-copy-of-parcial1-part3-rafael/editel?sharecode=jN5N_PTbYh4hWE67R3gS_xaGQFFZ0vUogsUso2M6WvY
