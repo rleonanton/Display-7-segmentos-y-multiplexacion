@@ -1,4 +1,3 @@
-## Parcial_1_S.P.D
 
 ![](https://github.com/rleonanton/Parcial_1_p_S.P.D/blob/main/arduino-1128227_1920.jpg)
 
